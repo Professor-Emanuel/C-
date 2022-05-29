@@ -1,0 +1,13 @@
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\bin\Debug\ExpressedEngine.exe.config
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\bin\Debug\ExpressedEngine.exe
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\bin\Debug\ExpressedEngine.pdb
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\obj\Debug\ExpressedEngine.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\obj\Debug\ExpressedEngine.exe
+C:\Emanuel\C#\ExpressedEngine\ExpressedEngine\obj\Debug\ExpressedEngine.pdb
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\bin\Debug\ExpressedEngine.exe.config
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\bin\Debug\ExpressedEngine.exe
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\bin\Debug\ExpressedEngine.pdb
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\obj\Debug\ExpressedEngine.csproj.AssemblyReference.cache
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\obj\Debug\ExpressedEngine.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\obj\Debug\ExpressedEngine.exe
+C:\Emanuel\C#\ExpressedEngine2\ExpressedEngine\obj\Debug\ExpressedEngine.pdb
