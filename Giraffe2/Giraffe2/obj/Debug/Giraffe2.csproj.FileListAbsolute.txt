@@ -1,0 +1,7 @@
+C:\Emanuel\C#\Giraffe2\Giraffe2\bin\Debug\Giraffe2.exe.config
+C:\Emanuel\C#\Giraffe2\Giraffe2\bin\Debug\Giraffe2.exe
+C:\Emanuel\C#\Giraffe2\Giraffe2\bin\Debug\Giraffe2.pdb
+C:\Emanuel\C#\Giraffe2\Giraffe2\obj\Debug\Giraffe2.csproj.AssemblyReference.cache
+C:\Emanuel\C#\Giraffe2\Giraffe2\obj\Debug\Giraffe2.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\Giraffe2\Giraffe2\obj\Debug\Giraffe2.exe
+C:\Emanuel\C#\Giraffe2\Giraffe2\obj\Debug\Giraffe2.pdb
