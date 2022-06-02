@@ -1,0 +1,7 @@
+C:\Emanuel\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.AssemblyReference.cache
+C:\Emanuel\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe.config
+C:\Emanuel\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+C:\Emanuel\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Emanuel\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+C:\Emanuel\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
