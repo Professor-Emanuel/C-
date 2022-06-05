@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -91,16 +91,15 @@ namespace ExpressedEngine
             {
                 //Log.Info($"Colliding!!! {times}");
                 //times++;
-                player.Position = Vector2.Zero();
+                //player.Position = Vector2.Zero();
+                player.Position.X = lastPos.X;
+                player.Position.Y = lastPos.Y;
             }
             else
             {
-                if(times > 10)
-                {
-                    lastPos = player.Position;
-                    times = 0;
-                }
-                
+                lastPos.X = player.Position.X;
+                lastPos.Y = player.Position.Y;
+                //lastPos = player.Position;
             }
         }
 
