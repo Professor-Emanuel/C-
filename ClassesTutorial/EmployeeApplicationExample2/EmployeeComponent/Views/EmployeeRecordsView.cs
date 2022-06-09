@@ -1,4 +1,5 @@
-﻿using EmployeeComponent.Data;
+﻿using EmployeeApplicationExample;
+using EmployeeComponent.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,7 +22,7 @@ namespace EmployeeComponent.Views
             Console.WriteLine(EmployeeCommonOutputText.GetColumnHeadings());
             Console.WriteLine();
 
-            foreach(EmployeeRecordsView emp in _employees)
+            foreach(Employee emp in _employees)
             {
                 Console.Write(emp.GetEmployeeInformation());
             }

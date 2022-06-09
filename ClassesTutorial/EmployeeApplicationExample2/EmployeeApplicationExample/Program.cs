@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EmployeeComponent;
-using EmployeeComponent.Data;
-using EmployeeComponent.View;
 using System.Globalization;
 
 namespace EmployeeApplicationExample
@@ -40,9 +37,9 @@ namespace EmployeeApplicationExample
             */
 
             Employees employees = new Employees();
-            EmployeeRecordsView employeesRecordsView = EmployeeObjectFactory.EmployeeRecordsViewObject(employees);
+            EmployeeRecordsView employeeRecordsView = EmployeeObjectFactory.EmployeeRecordsViewObject(employees);
             Console.WriteLine(EmployeeCommonOutputText.GetApplicationHeading());
-            employeesRecordsView.RunRecordsView();
+            employeeRecordsView.RunRecordsView();
 
             Console.ReadKey();
         }
