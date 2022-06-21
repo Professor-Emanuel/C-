@@ -1,0 +1,16 @@
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.exe
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.deps.json
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.runtimeconfig.json
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.runtimeconfig.dev.json
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.dll
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\ref\EmployeeApplication.dll
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\bin\Debug\net5.0\EmployeeApplication.pdb
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.AssemblyInfo.cs
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.dll
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\ref\EmployeeApplication.dll
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.pdb
+C:\Emanuel\C#\EmployeeApplication\EmployeeApplication\obj\Debug\net5.0\EmployeeApplication.genruntimeconfig.cache
