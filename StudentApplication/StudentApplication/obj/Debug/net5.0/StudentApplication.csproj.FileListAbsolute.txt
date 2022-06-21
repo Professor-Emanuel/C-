@@ -1,0 +1,16 @@
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.exe
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.deps.json
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.runtimeconfig.json
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.runtimeconfig.dev.json
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.dll
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\ref\StudentApplication.dll
+C:\Emanuel\C#\StudentApplication\StudentApplication\bin\Debug\net5.0\StudentApplication.pdb
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.csproj.AssemblyReference.cache
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.AssemblyInfoInputs.cache
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.AssemblyInfo.cs
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.dll
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\ref\StudentApplication.dll
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.pdb
+C:\Emanuel\C#\StudentApplication\StudentApplication\obj\Debug\net5.0\StudentApplication.genruntimeconfig.cache
