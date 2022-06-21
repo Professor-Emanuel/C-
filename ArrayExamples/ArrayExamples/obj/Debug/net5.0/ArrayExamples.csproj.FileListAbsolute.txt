@@ -1,0 +1,16 @@
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.csproj.AssemblyReference.cache
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.AssemblyInfoInputs.cache
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.AssemblyInfo.cs
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.exe
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.deps.json
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.runtimeconfig.json
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.runtimeconfig.dev.json
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.dll
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ref\ArrayExamples.dll
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\bin\Debug\net5.0\ArrayExamples.pdb
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.dll
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ref\ArrayExamples.dll
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.pdb
+C:\Emanuel\C#\ArrayExamples\ArrayExamples\obj\Debug\net5.0\ArrayExamples.genruntimeconfig.cache
