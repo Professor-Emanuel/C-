@@ -1,0 +1,16 @@
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.AssemblyInfoInputs.cache
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.AssemblyInfo.cs
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.exe
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.deps.json
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.runtimeconfig.json
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.runtimeconfig.dev.json
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.dll
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\ref\DataTypeConversionExample.dll
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\net5.0\DataTypeConversionExample.pdb
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.dll
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\ref\DataTypeConversionExample.dll
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.pdb
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.genruntimeconfig.cache
+C:\Emanuel\C#\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\net5.0\DataTypeConversionExample.csproj.AssemblyReference.cache
