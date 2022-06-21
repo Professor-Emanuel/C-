@@ -1,0 +1,16 @@
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.exe
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.deps.json
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.runtimeconfig.json
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.runtimeconfig.dev.json
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.dll
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\ref\OperatorOverloadExample.dll
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net5.0\OperatorOverloadExample.pdb
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.AssemblyInfoInputs.cache
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.AssemblyInfo.cs
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.dll
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\ref\OperatorOverloadExample.dll
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.pdb
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.genruntimeconfig.cache
+C:\Emanuel\C#\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net5.0\OperatorOverloadExample.csproj.AssemblyReference.cache
