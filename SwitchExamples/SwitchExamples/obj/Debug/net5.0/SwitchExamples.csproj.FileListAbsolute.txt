@@ -1,0 +1,16 @@
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.exe
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.deps.json
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.runtimeconfig.json
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.runtimeconfig.dev.json
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.dll
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\ref\SwitchExamples.dll
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\bin\Debug\net5.0\SwitchExamples.pdb
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.csproj.AssemblyReference.cache
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.AssemblyInfoInputs.cache
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.AssemblyInfo.cs
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.dll
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\ref\SwitchExamples.dll
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.pdb
+C:\Emanuel\C#\SwitchExamples\SwitchExamples\obj\Debug\net5.0\SwitchExamples.genruntimeconfig.cache
