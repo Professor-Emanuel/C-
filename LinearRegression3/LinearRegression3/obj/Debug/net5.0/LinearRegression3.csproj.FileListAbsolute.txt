@@ -1,0 +1,16 @@
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.exe
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.deps.json
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.runtimeconfig.json
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.runtimeconfig.dev.json
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.dll
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\ref\LinearRegression3.dll
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\bin\Debug\net5.0\LinearRegression3.pdb
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.csproj.AssemblyReference.cache
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.AssemblyInfoInputs.cache
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.AssemblyInfo.cs
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.csproj.CoreCompileInputs.cache
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.dll
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\ref\LinearRegression3.dll
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.pdb
+C:\Emanuel\C#\LinearRegression3\LinearRegression3\obj\Debug\net5.0\LinearRegression3.genruntimeconfig.cache
